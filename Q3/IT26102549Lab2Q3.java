@@ -1,0 +1,15 @@
+public class IT26102549Lab2Q3{
+	
+	public static void main(String[] arg){
+		
+		double sideA = 3;
+		double sideB = 4;
+		
+		double hypotenuse = Math.sqrt(sideA*sideA + sideB*sideB );
+		
+		System.out.println (+hypotenuse);
+		
+	}
+	
+	
+}
